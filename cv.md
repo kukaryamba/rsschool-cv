@@ -6,22 +6,10 @@
 
 - **Phone**: +7 951 652 71 08
 - **Email**: tavtolog@gmail.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 - **Discord**: Maria (@kukaryamba)
 
 ---
 
-=======
-- **GitHub**: [kukaryamba](https://github.com/kukaryamba)
-- **Discord**: Maria (@kukaryamba)
----
->>>>>>> 3fcfcc7b58142d207d1ecc39af8bcb00edc321c8
-=======
-- **GitHub**: [kukaryamba](https://github.com/kukaryamba)
-- **Discord**: Maria (@kukaryamba)
----
->>>>>>> 3fcfcc7b58142d207d1ecc39af8bcb00edc321c8
 ## About me
 
 I'm trying to change my life.
