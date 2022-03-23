@@ -1,20 +1,25 @@
 # Maria Likhacheva
 ![me, myself and I](img/cv-photo.jpg)
+
+---
 ## Contacts
 
 - **Phone**: +7 951 652 71 08
 - **Email**: tavtolog@gmail.com
 - **GitHub**: [kukaryamba](https://github.com/kukaryamba)
-
+- **Discord**: Maria (@kukaryamba)
+---
 ## About me
+
 I'm trying to change my life.
 
+---
 ## Skills
 - HTML basic
 - CSS basic
 - JS basic
 - Git basic
-
+---
 ## Code examples
 
 ```
@@ -26,14 +31,17 @@ function smartSum(...args){
   return sum;
 }
 ```
+---
 ## Work experience
 Website administrator
 
-2019 - 2021 
+2019 - 2021
 
+---
 ## Education
 BA Linguistics
 
+---
 ## Languages
 - Russian - native
 - English - upper intermediate 
